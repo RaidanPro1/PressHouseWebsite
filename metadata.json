@@ -1,0 +1,9 @@
+{
+  "name": "Press House",
+  "description": "منصة رصد الحريات الإعلامية وأدوات التحقق من الأخبار في اليمن.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
